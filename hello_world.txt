@@ -1,0 +1,3 @@
+print('I like turtles')
+
+print('I miss Python')
